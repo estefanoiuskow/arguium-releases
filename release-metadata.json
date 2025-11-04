@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2025-11-04T19:49:09.110Z",
+  "version": "1.0.1",
+  "releaseDate": "2025-11-04T20:29:25.057Z",
   "platforms": {
     "win32": {
       "x64": {
@@ -21,7 +21,7 @@
       }
     }
   },
-  "releaseNotes": "Release 1.0.0",
+  "releaseNotes": "Test Update v1.0.1 - This is a simulated update for testing",
   "minimumVersion": "1.0.0",
-  "signature": "5FHlIdHJKR6xHemLodEpSTL/A0zXzF0Vv3RUHcE1prHwJ0kyfTy0zyWZEPkIq/H6Rokq3as1tNf6c+3by5gvBA=="
+  "signature": "MzF1FEHLa5YC6p+VtBBMrW2senBYGuxgIt3D6ddbzNDApUyy0jkcLhAWGTKodUnzG8MqBAJoJc+Qzx1DAzuxCw=="
 }
