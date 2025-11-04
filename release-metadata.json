@@ -1,27 +1,20 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2025-11-04T19:49:09.110Z",
+  "releaseDate": "2025-11-04T20:38:15.503Z",
   "platforms": {
     "win32": {
       "x64": {
         "portable": {
-          "url": "",
-          "checksum": "8c510be1f02d97759dcf29054652c520cc835868bc4c6e55e908dfc407ccce23",
-          "signature": "op5yShIHagPshPI2KubTM6Ff+P7NJX3a24qqjSIEtcSBXatjlhGf50KYRGlC0VVmvtC3LTPDZhjOm6NE8HFmCA==",
-          "size": 317944802,
-          "filename": "Cluely-1.0.0-Portable.exe"
-        },
-        "installer": {
-          "url": "",
-          "checksum": "7e3b8b994275ef0acf0fac1b6872148e4bca4c08b53ef1ae1d6d4175a218630e",
-          "signature": "NPxtkAzbuaYqxuaeKPAhfND98/ZXIzFZ3S0pwpn60UTd4J4YsocIrbqCmTiLJmFrzxqcshxYrzwNE6B6yBc8DQ==",
-          "size": 318172499,
-          "filename": "Cluely-1.0.0-x64.exe"
+          "size": 38,
+          "url": "https://raw.githubusercontent.com/estefanoiuskow/arguium-releases/main/Cluely-1.0.1-Portable.exe",
+          "checksum": "c5b5a8850848039575d4da1970c3e1c10e36f212ae7199fa02a5fdc76a6fbffa",
+          "filename": "Cluely-1.0.1-Portable.exe",
+          "signature": "https://raw.githubusercontent.com/estefanoiuskow/arguium-releases/main/Cluely-1.0.1-Portable.exe.sig"
         }
       }
     }
   },
-  "releaseNotes": "Release 1.0.0",
+  "releaseNotes": "Test Update v1.0.1 - Full scenario test with download and installation",
+  "version": "1.0.1",
   "minimumVersion": "1.0.0",
-  "signature": "5FHlIdHJKR6xHemLodEpSTL/A0zXzF0Vv3RUHcE1prHwJ0kyfTy0zyWZEPkIq/H6Rokq3as1tNf6c+3by5gvBA=="
+  "signature": "x1o0MMhvb49UZHNQZGJFx6kA5vV411OgrUzAOOViyrgxg/9kbhU6u/wHTOUjJozoXx5XAZOumSZWEXg9Xo2YAQ=="
 }
